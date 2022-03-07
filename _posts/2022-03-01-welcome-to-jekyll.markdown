@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Dai Wei's Blog"
+title:  "Welcome toJekyll!"
 date:   2022-03-01 14:44:04 +0800
 categories: jekyll update
 ---
