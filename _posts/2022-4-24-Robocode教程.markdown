@@ -16,7 +16,7 @@ Robocode is a programming game, where the goal is to develop a robot battle tank
 下载地址: https://robocode.sourceforge.io/download/
 ![](/my_pics/Robocode安装网站.png)
 
-#### 2.启动Robocode
+#### 3.启动Robocode
 下载地址: https://robocode.sourceforge.io/download/
 ![](/my_pics/启动robocode.png)
 
