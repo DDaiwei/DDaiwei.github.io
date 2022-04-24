@@ -23,7 +23,7 @@ Robocode is a programming game, where the goal is to develop a robot battle tank
 
 #### 4. 对战
 启动成功后点击 “对战” 按钮，选择对战类型，选择对战对手，点击“开始”按钮，开始对战。
-![](/my_pics/对战.png)
+![](/my_pics/battle.png)
 
 #### 5.创建自己的robot
 ...
